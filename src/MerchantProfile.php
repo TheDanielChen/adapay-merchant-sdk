@@ -7,7 +7,7 @@
  */
 
 namespace Cstopery\AdaPayMerchant;
-use Cstopery\AdaPay;
+use Cstopery\AdaPay\AdaPay;
 
 
 class MerchantProfile extends AdaPay
